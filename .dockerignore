@@ -1,0 +1,6 @@
+# compiled output
+app/node_modules
+app/dist
+pgdata
+.env
+
